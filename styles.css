@@ -49,7 +49,6 @@
 .carousel {
   width: 50rem;
   height: 75rem;
-  /* margin: 40px 50px; */
 }
 
 .carousel-inner {
@@ -67,7 +66,7 @@
 }
 
 .class-tech-employees {
-  margin-bottom: 5.5rem;
+  /* margin-bottom: 1rem; */
 }
 
 .class-tech-image {
@@ -197,4 +196,19 @@ footer p {
   width: 20px;
   height: 20px;
   text-align: center;
+}
+
+.bing {
+  display: flex;
+  font-size: 250px;
+  align-items: center;
+  justify-content: center;
+}
+
+.osrs {
+  margin-left: 35%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 250px;
 }
