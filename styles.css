@@ -1,0 +1,30 @@
+.navbar {
+    background: rgb(0,118,198);
+    background: linear-gradient(90deg, rgba(0,118,198,1) 0%, rgba(0,118,198,1) 53%, rgba(247,247,247,1) 100%);
+}
+
+.brand-icon{
+    width: 100px;
+    height: 100px;
+    margin-left: 40px;
+    margin-right: 25px;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-item {
+    margin-left: 20rem;
+}
+
+.carousel {
+    width: 50rem;
+    height: 75rem;
+    margin: 40px 50px;
+}
+
+.carousel-inner{
+    border-radius: 15px;
+}
